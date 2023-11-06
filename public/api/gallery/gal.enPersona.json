@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "image": "ripoll_01.jpg",
+    "alt": "01"
+  },
+  {
+    "id": 2,
+    "image": "ripoll_10.jpg",
+    "alt": "02"
+  },
+  {
+    "id": 3,
+    "image": "ripoll_05.jpg",
+    "alt": "03"
+  },
+  {
+    "id": 4,
+    "image": "ripoll_08.jpg",
+    "alt": "04"
+  },
+  {
+    "id": 5,
+    "image": "ripoll_03.jpg",
+    "alt": "05"
+  },
+  {
+    "id": 6,
+    "image": "ripoll_04.jpg",
+    "alt": "06"
+  },
+  {
+    "id": 7,
+    "image": "ripoll_06.jpg",
+    "alt": "07"
+  },
+  {
+    "id": 8,
+    "image": "ripoll_02.jpg",
+    "alt": "08"
+  },
+
+  {
+    "id": 9,
+    "image": "ripoll_07.jpg",
+    "alt": "09"
+  },
+  {
+    "id": 10,
+    "image": "ripoll_09.jpg",
+    "alt": "10"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "code": "enPersona",
+    "title": "En persona",
+    "path": "/api/gallery/enPersona.json",
+    "photoBy": {
+      "name": "@dallatorrestudio",
+      "url": "https://www.instagram.com/dallatorrestudio/"
+    }
+  },
+  {
+    "code": "engatusado",
+    "title": "Engatusado",
+    "path": "/api/gallery/engatusado.json",
+    "photoBy": {
+      "name": "@gdripoll",
+      "url": "https://www.instagram.com/gdripoll/"
+    }
+  }
+]

@@ -1,0 +1,141 @@
+[
+  { "titulo": "Neuromante", "year": "1984", "autor": "GibsonWilliam" },
+  {
+    "titulo": "Jane Rizzoli #1 - El cirujano",
+    "year": "2001",
+    "autor": "GerritsenTess"
+  },
+  { "titulo": "Eneida", "year": "Siglo I AC", "autor": "Virgilio" },
+  {
+    "titulo": "Sobre la muerte y los moribundos",
+    "year": "1969",
+    "autor": "KublerRossElizabeth"
+  },
+  { "titulo": "Las aves", "year": "414 AC", "autor": "Aristofanes" },
+  { "titulo": "Lisístrata", "year": "411 AC", "autor": "Aristofanes" },
+  {
+    "titulo": "Las guerras de la Galia",
+    "year": "50 AC",
+    "autor": "CesarJulio"
+  },
+  { "titulo": "Ajuar funerario", "year": "2004", "autor": "IwasakiFernando" },
+  {
+    "titulo": "La isla del tesoro",
+    "year": "1883",
+    "autor": "StevensonRobertLouis"
+  },
+  {
+    "titulo": "La figura de la alfombra",
+    "year": "1896",
+    "autor": "JamesHenry"
+  },
+  {
+    "titulo": "El corazón de las tinieblas",
+    "year": "1899",
+    "autor": "ConradJoseph"
+  },
+  { "titulo": "El golem", "year": "1915", "autor": "MeyrinkGustav" },
+  {
+    "titulo": "Jesse Stone 1: Night Passage",
+    "year": "1997",
+    "autor": "ParkerRobertB"
+  },
+  {
+    "titulo": "Cementerio de animales",
+    "year": "1983",
+    "autor": "KingStephen"
+  },
+  { "titulo": "Las nubes", "year": "423 AC", "autor": "Aristofanes" },
+  { "titulo": "La historia de Lisey", "year": "2007", "autor": "KingStephen" },
+  {
+    "titulo": "El imperio jesuítico",
+    "year": "1904",
+    "autor": "LugonesLeopoldo"
+  },
+  {
+    "titulo": "Jesse Stone 2: Trouble in Paradise",
+    "year": "1998",
+    "autor": "ParkerRobertB"
+  },
+  { "titulo": "Buenos presagios", "year": "1990", "autor": "GaimanNeil" },
+  {
+    "titulo": "Jesse Stone 3: Murder in Paradise",
+    "year": "2001",
+    "autor": "ParkerRobertB"
+  },
+  {
+    "titulo": "Fjällbacka 1 - La princesa de hielo",
+    "year": "2007",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "Jesse Stone 4: Stone Cold",
+    "year": "2003",
+    "autor": "ParkerRobertB"
+  },
+  {
+    "titulo": "Jesse Stone 5: Sea Change",
+    "year": "2006",
+    "autor": "ParkerRobertB"
+  },
+  {
+    "titulo": "Jesse Stone 6: High Profile",
+    "year": "2007",
+    "autor": "ParkerRobertB"
+  },
+  {
+    "titulo": "Fjällbacka 2 - Los gritos del pasado",
+    "year": "2008",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "Jesse Stone 7: Stranger in Paradise",
+    "year": "2008",
+    "autor": "ParkerRobertB"
+  },
+  {
+    "titulo": "Fjällbacka 3 - Las hijas del frío",
+    "year": "2009",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "El burlador de Sevilla",
+    "year": "1620",
+    "autor": "TirsoDeMolina"
+  },
+  {
+    "titulo": "Don Gil de las calzas verdes",
+    "year": "1615",
+    "autor": "TirsoDeMolina"
+  },
+  {
+    "titulo": "Fjällbacka 4 - Crimen en directo",
+    "year": "2010",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "Fjällbacka 5 - Las huellas imborrables",
+    "year": "2011",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "Fjällbacka 6 - La sombra de la sirena",
+    "year": "2012",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "Fjällbacka 7 - Los vigilantes del faro",
+    "year": "2013",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "Fjällbacka 8 - La mirada de los ángeles",
+    "year": "2014",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "Fjällbacka 9 - El domador de leones",
+    "year": "2015",
+    "autor": "LackbergCamila"
+  }
+]

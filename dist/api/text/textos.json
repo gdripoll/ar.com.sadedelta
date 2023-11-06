@@ -1,0 +1,73 @@
+[
+  {
+    "slug": "01-elArenero",
+    "tipo": "Cuento",
+    "titulo": "El arenero",
+    "bajada": "Ganador del Concurso Juan Rulfo 2010. Otorgado por Radio Francia Internacional (RFI), y coorganizado por el Instituto Cervantes de París, el Instituto Cultural de México en París y la Casa de América Latina de París. París, Francia. 2010.",
+    "image": {
+      "url": "https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "name": "Maxim Hopman"
+    }
+  },
+  {
+    "slug": "08-elViejo",
+    "tipo": "Texto",
+    "titulo": "El viejo",
+    "bajada": "A José Saramago, in memoriam.",
+    "image": {}
+  },
+  {
+    "slug": "07-segrob",
+    "tipo": "Microrelato",
+    "titulo": "Segrob",
+    "bajada": "Cuentan que Segrob...",
+    "image": {}
+  },
+  {
+    "slug": "06-julioYCortazar",
+    "tipo": "Microrelato",
+    "titulo": "Julio y Cortazar",
+    "bajada": "Ambos se miraron: barbudos, humeantes y descreídos",
+    "image": {}
+  },
+  {
+    "slug": "05-deMañana",
+    "tipo": "Microrelato",
+    "titulo": "De mañana",
+    "bajada": "Finalista del IV Concurso de Microrelatos Eróticos. Otorgado por Ediciones de Letras. España. 2016.",
+    "image": {
+      "url": "https://unsplash.com/@jabdilla_creative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "name": "Jason Abdilla"
+    }
+  },
+  {
+    "slug": "04-clavado",
+    "tipo": "Microcuento",
+    "titulo": "Clavado",
+    "bajada": "Publicado en la revista Lea.",
+    "image": {
+      "url": "https://unsplash.com/@emkerix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "name": "M S"
+    }
+  },
+  {
+    "slug": "03-treintaMonedas",
+    "tipo": "Microcuento",
+    "titulo": "Treinta monedas",
+    "bajada": "Finalista del IV Concurso Internacional \"Museo de la Palabra\". Otorgado por Fundación César Egido Serrano. Madrid, España. 2016.",
+    "image": {
+      "url": "https://unsplash.com/@connorshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "name": "Connor Hall"
+    }
+  },
+  {
+    "slug": "02-vidaDeViajero",
+    "tipo": "Texto",
+    "titulo": "Vida de viajero",
+    "bajada": "Pero no importa que tan lejos vaya, siempre vuelvo al sillón; eso es lo que dicta la trama.",
+    "image": {
+      "url": "https://unsplash.com/@mzakatiura?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+      "name": "Mariia Zakatiura"
+    }
+  }
+]

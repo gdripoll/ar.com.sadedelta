@@ -1,0 +1,115 @@
+[
+  {
+    "titulo": "20.000 leguas de viaje submarino",
+    "year": "1870 AC",
+    "autor": "VerneJules"
+  },
+  {
+    "titulo": "La vuelta al mundo en 80 días",
+    "year": "1873 AC",
+    "autor": "VerneJules"
+  },
+  {
+    "titulo": "De la tierra a la luna",
+    "year": "1865 AC",
+    "autor": "VerneJules"
+  },
+  {
+    "titulo": "Fjällbacka 10 - Una jaula de oro",
+    "year": "2019",
+    "autor": "LackbergCamila"
+  },
+  {
+    "titulo": "Las aventuras de Arthur Gordon Pym",
+    "year": "1838",
+    "autor": "PoeEdgarAllan"
+  },
+  { "titulo": "Cuento de Navidad", "year": "1843", "autor": "DickensCharles" },
+  {
+    "titulo": "La dama de las camelias",
+    "year": "1848",
+    "autor": "DumasAlejandroh"
+  },
+  { "titulo": "Zama", "year": "1956", "autor": "DiBenedettoAntonio" },
+  { "titulo": "Ajax", "year": "450 AC", "autor": "Sofocles" },
+  { "titulo": "Electra", "year": "418 AC", "autor": "Sofocles" },
+  { "titulo": "La dama pálida", "year": "1849", "autor": "DumasAlejando" },
+  { "titulo": "Edipo rey", "year": "429 AC", "autor": "Sofocles" },
+  { "titulo": "Edipo en Colono", "year": "401 AC", "autor": "Sofocles" },
+  { "titulo": "Doctor sueño", "year": "2013", "autor": "KingStephen" },
+  { "titulo": "Mr. Mercedes #1", "year": "2014", "autor": "KingStephen" },
+  {
+    "titulo": "Mr. Mercedes #2 - Quien pierde, paga",
+    "year": "2015",
+    "autor": "KingStephen"
+  },
+  {
+    "titulo": "Mr. Mercedes #3 - Fin de guardia",
+    "year": "2016",
+    "autor": "KingStephen"
+  },
+  {
+    "titulo": "Simon Templar encuentra al Tigre",
+    "year": "1928",
+    "autor": "CharterisLeslie"
+  },
+  { "titulo": "Entra el Santo", "year": "1930", "autor": "CharterisLeslie" },
+  { "titulo": "Los magos", "year": "2009", "autor": "GrossmanLev" },
+  {
+    "titulo": "El comienzo de la noche",
+    "year": "2013",
+    "autor": "StephenLeather"
+  },
+  { "titulo": "Revival", "year": "2014", "autor": "KingStephen" },
+  {
+    "titulo": "La torre oscura #1 - El pistolero",
+    "year": "1982",
+    "autor": "KingStephen"
+  },
+  {
+    "titulo": "La torre oscura #2 - La llegada de los tres",
+    "year": "1987",
+    "autor": "KingStephen"
+  },
+  {
+    "titulo": "La torre oscura #3 - Las tierras baldías",
+    "year": "1991",
+    "autor": "KingStephen"
+  },
+  {
+    "titulo": "La torre oscura #4 - La bola de cristal",
+    "year": "1999",
+    "autor": "KingStephen"
+  },
+  {
+    "titulo": "La torre oscura #5 - Los lobos de Calla",
+    "year": "2003",
+    "autor": "KingStephen"
+  },
+  {
+    "titulo": "La torre oscura #6 - Canción de Susannah",
+    "year": "2004",
+    "autor": "KingStephen"
+  },
+  {
+    "titulo": "La torre oscura #7 - La torre oscura",
+    "year": "2004",
+    "autor": "KingStephen"
+  },
+  { "titulo": "El puñal", "year": "2014", "autor": "FernándezDíasJorge" },
+  {
+    "titulo": "De Poe a Kafka. Para una teoría del cuento",
+    "year": "1965",
+    "autor": "LancelottiMarioA"
+  },
+  {
+    "titulo": "«Historia de la Literatura» en Diccionario enciclopédico de las ciencias del lenguaje",
+    "year": "1972",
+    "autor": "TodorovTzvetan"
+  },
+  {
+    "titulo": "«La noción de Literatura» en Los géneros del discurso",
+    "year": "1978",
+    "autor": "TodorovTzvetan"
+  }
+]

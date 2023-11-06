@@ -1,0 +1,147 @@
+[
+  {
+    "tipo": "cuento",
+    "titulo": "Cuentos elegidos",
+    "autor": "JamesHenry",
+    "partes": ["Después de la carrera", "Dos galanes", "Duplicados", "Efemérides en el comité"]
+  },
+  {
+    "tipo": "novela",
+    "titulo": "La sacerdotisa blanca. La era de los cinco dioses 1",
+    "year": "(2005)",
+    "autor": "CanavanTrudi"
+  },
+  {
+    "titulo": "El aprendizaje del escritor",
+    "year": "2014",
+    "autor": "BorgesJorgeLuis"
+  },
+  {
+    "tipo": "crítica literaria / biografía",
+    "titulo": "H. P. Lovecraft. Contra el mundo, contra la vida",
+    "year": "1991",
+    "autor": "HouellebecqMichel"
+  },
+  {
+    "tipo": "técnico",
+    "titulo": "Atreverse a escribir",
+    "year": "2002",
+    "autor": "DiMarcoMarcelo"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "Herbert West, Reanimador",
+    "year": "1922",
+    "autor": "LovecraftHP"
+  },
+  {
+    "tipo": "cuento",
+    "titulo": "Cuentos",
+    "autor": "LovecraftHP",
+    "partes": [
+      "El testimonio de Randolph Carter",
+      "La botella de Cristal",
+      "La cueva secreta",
+      "El misterio del cementerio",
+      "Dagon",
+      "Nyarlarthotep",
+      "La ciudad sin nombre",
+      "Azathoth",
+      "El sabueso",
+      "El festival",
+      "La llamada de Cthulhu",
+      "El color que llegó del espacio",
+      "La historia del Necronomicón"
+    ]
+  },
+  {
+    "tipo": "historia",
+    "titulo": "Argentina, con pecado concebida",
+    "year": "2009",
+    "autor": "AndahaziFederico"
+  },
+  {
+    "tipo": "cuento",
+    "titulo": "Cuentos",
+    "autor": "BlochRobert",
+    "partes": ["Cuaderno hallado en una casa deshabitada", "El vampiro estelar"]
+  },
+  {
+    "tipo": "cuento",
+    "titulo": "Cuentos",
+    "autor": "ChejovAnton",
+    "partes": ["En la barbería", "La muerte de un funcionario", "La hija de Albión"]
+  },
+  {
+    "tipo": "técnico",
+    "titulo": "El héroe de las mil caras",
+    "year": "1949",
+    "autor": "CampbellJoseph"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "El caballero inexistente",
+    "year": "1959",
+    "autor": "CalvinoItalo"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "La logia de Cadiz",
+    "year": "2008",
+    "autor": "FernándezDíasJorge"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "Zapatos italianos",
+    "year": "2006",
+    "autor": "MankellHenning"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "El castillo de Otranto",
+    "year": "1764",
+    "autor": "WalpoleHorace"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "Las piadosas",
+    "year": "1998",
+    "autor": "AndahaziFederico"
+  },
+  {
+    "tipo": "historia",
+    "titulo": "Pecar como Dios manda. Historia sexual de los argentinos",
+    "year": "2008",
+    "autor": "AndahaziFederico"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "Los 120 días de Sodoma",
+    "year": "1785",
+    "autor": "SadeMarquez"
+  },
+  {
+    "tipo": "cuento",
+    "titulo": "La arquitectura del océano",
+    "year": "2014",
+    "autor": "GarlandInes"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "El anatomista",
+    "year": "1997",
+    "autor": "AndahaziFederico"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "No habrá más penas ni olvido",
+    "year": "1978",
+    "autor": "SorianoOsvaldo"
+  },
+  {
+    "tipo": "novela",
+    "titulo": "El pantano de las mariposas",
+    "year": "2013",
+    "autor": "AxatFederico"
+  }
+]

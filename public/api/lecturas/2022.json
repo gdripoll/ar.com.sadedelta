@@ -1,0 +1,68 @@
+[
+  {
+    "titulo": "Los fuegos del Sacramento",
+    "year": "1998",
+    "genero": "novela",
+    "autor": "PaternainAlejandro"
+  },
+  {
+    "titulo": "Cuentos de humor negro",
+    "year": "1993",
+    "genero": "cuentos",
+    "autor": "Saki"
+  },
+  {
+    "titulo": "Los traficantes de naufragios",
+    "year": "1892",
+    "genero": "novela",
+    "autor": "StevensonRobertLouis"
+  },
+  {
+    "titulo": "Juventud",
+    "year": "1898",
+    "genero": "novela",
+    "autor": "ConradJoseph"
+  },
+  {
+    "titulo": "La sombra en el reflejo",
+    "year": "2022",
+    "genero": "cuentos",
+    "autor": "BaravalleAlejandro"
+  },
+  {
+    "titulo": "Halcones de mar - Niebla de espejos",
+    "year": "2022",
+    "genero": "novela",
+    "autor": "EtzeJorgelina"
+  },
+  {
+    "titulo": "América",
+    "year": "1927",
+    "genero": "novela",
+    "autor": "KafkaFranz"
+  },
+  {
+    "titulo": "Jung para principiantes",
+    "year": "2002",
+    "genero": "novela",
+    "autor": "HydeMaggie"
+  },
+  {
+    "titulo": "Comisario Montalbano #19 - Juego de espejos",
+    "year": "2011",
+    "genero": "novela",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #20 - Un filo de luz",
+    "year": "2012",
+    "genero": "novela",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "El manuscrito Borges",
+    "year": "2019",
+    "genero": "novela",
+    "autor": "VaccaroAlejandro"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  { "titulo": "La herida", "year": "2017", "autor": "FernándezDíasJorge" },
+  { "titulo": "La traición", "year": "2020", "autor": "FernándezDíasJorge" },
+  {
+    "titulo": "Comisario Montalbano #1 - La forma del agua",
+    "year": "1994",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #2 - El perro de terracota",
+    "year": "1996",
+    "autor": "CamilleriAndrea"
+  },
+  { "titulo": "La lección del maestro", "year": "1888", "autor": "JamesHenry" },
+  {
+    "titulo": "Comisario Montalbano #3 - El ladrón de meriendas",
+    "year": "1996",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #4 - La voz del violín",
+    "year": "1997",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Respiración artificial",
+    "year": "1980",
+    "autor": "PigliaRicardo"
+  },
+  {
+    "titulo": "Comisario Montalbano #5- La excursión a Tindari",
+    "year": "2000",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #6 - El olor de la noche",
+    "year": "1997",
+    "autor": "CamilleriAndrea"
+  },
+  { "titulo": "Cuerpo a tierra", "year": "2015", "autor": "KohanMartín" },
+  {
+    "titulo": "Comisario Montalbano #7 - Un giro decisivo",
+    "year": "2003",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #8 - La paciencia de la araña",
+    "year": "2004",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "La guía del autoestopista galáctico I",
+    "year": "1979",
+    "autor": "AdamsDouglas"
+  },
+  {
+    "titulo": "Comisario Montalbano #9 - La luna de papel",
+    "year": "2005",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #10 - Ardores de agosto",
+    "year": "2006",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "La guía del autoestopista galáctico II - El restaurante del fin del mundo",
+    "year": "1980",
+    "autor": "AdamsDouglas"
+  },
+  { "titulo": "Rivales", "year": "2011", "autor": "CastroNelson" },
+  {
+    "titulo": "Comisario Montalbano #11 - Las alas de la Esfinge",
+    "year": "2006",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #12 - Las pista de arena",
+    "year": "2007",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "La salud de los papas",
+    "year": "2021",
+    "autor": "CastroNelson"
+  },
+  {
+    "titulo": "Comisario Montalbano #13 - El campo del alfarero",
+    "year": "2008",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #14 - La edad de la duda",
+    "year": "2009",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #15 - La danza de la gaviota",
+    "year": "2009",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Kalpa imperial - La casa del poder",
+    "year": "1983",
+    "autor": "GorodischerAngélica"
+  },
+  {
+    "titulo": "Comisario Montalbano #16 - La búsqueda del tesoro",
+    "year": "2010",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Comisario Montalbano #17 - Por la boca muere el pez",
+    "year": "2010",
+    "autor": "CamilleriAndrea"
+  },
+  {
+    "titulo": "Antología del cuento policial argentino. Escritores ajenos al género",
+    "year": "2014",
+    "autor": "BattistaVicente"
+  },
+  {
+    "titulo": "Diez cuentos policiales argentinos",
+    "year": "1953",
+    "autor": "WalshRodolfo"
+  },
+  {
+    "titulo": "Matilde debe morir",
+    "year": "2016",
+    "autor": "AcevedoCristian"
+  },
+  {
+    "titulo": "Matilde decide vivir",
+    "year": "2021",
+    "autor": "AcevedoCristian"
+  },
+  { "titulo": "Suspense", "year": "1966", "autor": "HighsmithPatricia" },
+  {
+    "titulo": "Comisario Montalbano #18 - La sonrisa de Angélica",
+    "year": "2010",
+    "autor": "CamilleriAndrea"
+  },
+  { "titulo": "Resplandores", "year": "2018", "autor": "NievaJorge" },
+  {
+    "titulo": "Halcones de mar - El fantasma de Spencer",
+    "year": "2021",
+    "autor": "EtzeJorgelina"
+  },
+  {
+    "titulo": "Necroscopio I: El que habla con los muertos",
+    "year": "1986",
+    "autor": "LumleyBrian"
+  }
+]

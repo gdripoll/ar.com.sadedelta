@@ -1,0 +1,96 @@
+[
+  {
+    "titulo": "La era de los cinco dioses 2 # La Hechicera Indomita",
+    "year": "2006",
+    "autor": "CanavanTrudi"
+  },
+  {
+    "titulo": "La era de los cinco dioses 3 # La Voz de los dioses",
+    "year": "2006",
+    "autor": "CanavanTrudi"
+  },
+  {
+    "titulo": "Nacidos de la bruma 1 # El imperio final",
+    "year": "2006",
+    "autor": "SandersonBrandon"
+  },
+  { "titulo": "Fundación", "year": "1951", "autor": "AsimovIsaac" },
+  {
+    "titulo": "Nacidos de la bruma 2 # El pozo de la ascensión",
+    "year": "2007",
+    "autor": "SandersonBrandon"
+  },
+  { "titulo": "Fundación e imperio", "year": "1952", "autor": "AsimovIsaac" },
+  {
+    "titulo": "Nacidos de la bruma 3 # El héroe de las eras",
+    "year": "2008",
+    "autor": "SandersonBrandon"
+  },
+  {
+    "titulo": "Vida y época de Michael K",
+    "year": "2007",
+    "autor": "CoetzeeJM"
+  },
+  { "titulo": "Segunda Fundación", "year": "1953", "autor": "AsimovIsaac" },
+  {
+    "titulo": "En los límites de la realidad Cuentos",
+    "year": "",
+    "autor": "BlochRobert"
+  },
+  {
+    "titulo": "La muerte llega a Pemberley",
+    "year": "2011",
+    "autor": "JamesPD"
+  },
+  {
+    "titulo": "La isla de las voces",
+    "year": "1893",
+    "autor": "StevensonRobertLouis"
+  },
+  {
+    "titulo": "Nacidos de la bruma 4 # Aleación de ley",
+    "year": "2011",
+    "autor": "SandersonBrandon"
+  },
+  {
+    "titulo": "La maldición de Capistrano (El zorro)",
+    "year": "1919",
+    "autor": "McCulleyJohnston"
+  },
+  { "titulo": "Snow Crash", "year": "1992", "autor": "StephensonNeal" },
+  { "titulo": "Exu", "year": "2001", "autor": "CebrianGabriel" },
+  { "titulo": "Underworld", "year": "2003", "autor": "CoxGreg" },
+  {
+    "titulo": "Nacidos de la bruma 5 # Sombras de identidad",
+    "year": "2015",
+    "autor": "SandersonBrandon"
+  },
+  {
+    "titulo": "25 noches de insomnio",
+    "year": "2017",
+    "autor": "DiMarcoMarcelo"
+  },
+  {
+    "titulo": "Para leer al anochecer",
+    "year": "",
+    "autor": "DickensCharles",
+    "partes": [
+      "Para leer al anochecer",
+      "El guardavias",
+      "El juicio por asesinato",
+      "La casa encantada",
+      "El fantasma de la habitación de la desposada",
+      "El letrado y el fantasma",
+      "Fantasmas de navidad» — «Cuatro historias de fantasmas» — «Pálpitos confirmados",
+      "La visita del señor Testador",
+      "La historia del retratista",
+      "El Capitàn asesino y el pacto con el diablo",
+      "El niño que soñò con una estrella"
+    ]
+  },
+  {
+    "titulo": "Misterio en los Bajos del Temor",
+    "year": "2017",
+    "autor": "PrimaveraHugoCesar"
+  }
+]

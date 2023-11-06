@@ -1,0 +1,149 @@
+[
+  {
+    "tipo": "cuento",
+    "genero": "policial",
+    "titulo": "La carta robada",
+    "autor": "PoeEdgarAllan"
+  },
+  {
+    "tipo": "cuento",
+    "genero": "policial",
+    "titulo": "La liga de los Cabezas Rojas",
+    "autor": "ConanDoyleArthur"
+  },
+  {
+    "tipo": "ensayo",
+    "genero": "policial",
+    "titulo": "La evolución del detective en el género policíaco",
+    "autor": "CerezoIvanMartin"
+  },
+  {
+    "tipo": "cuento",
+    "genero": "policial",
+    "titulo": "El triple robo de Bellamore",
+    "autor": "QuirogaHoracio"
+  },
+  {
+    "tipo": "cuento",
+    "genero": "policial",
+    "titulo": "Las noches de Goliadkin",
+    "autor": "BustosDomecqH"
+  },
+  {
+    "tipo": "ensayo",
+    "genero": "policial",
+    "titulo": "Ttipología de la novela policial",
+    "autor": "TodorovTzvetan"
+  },
+  {
+    "tipo": "ensayo",
+    "genero": "policial",
+    "titulo": "El cuento policial",
+    "autor": "BorgesJorgeLuis"
+  },
+  {
+    "tipo": "cuento",
+    "genero": "policial",
+    "titulo": "Los asesinos",
+    "obs": "Lo no dicho",
+    "autor": "HemingwayErnest"
+  },
+  {
+    "tipo": "cuento",
+    "genero": "policial",
+    "titulo": "Humo",
+    "autor": "FaulknerWilliam"
+  },
+  {
+    "tipo": "cuento",
+    "genero": "policial",
+    "titulo": "Versión de un relato de Hammett",
+    "obs": "meta",
+    "autor": "SasturainJuan"
+  },
+  {
+    "tipo": "cuento",
+    "genero": "policial",
+    "titulo": "La loca y el relato del crimen",
+    "obs": "Lingüista",
+    "autor": "PigliaRicardo"
+  },
+  {
+    "tipo": "novela",
+    "genero": "policial",
+    "titulo": "Pagaría por no verte",
+    "year": "2008",
+    "autor": "SasturainJuan"
+  },
+  {
+    "tipo": "novela",
+    "genero": "policial",
+    "titulo": "Pista negra (Rocco Schiavone 1)",
+    "rate": 5,
+    "year": "2013",
+    "autor": "ManziniAntonio"
+  },
+  {
+    "tipo": "libro de cuentos",
+    "genero": "policial",
+    "titulo": "Los casos de don Fruto Gómez",
+    "year": "1955",
+    "rate": 3,
+    "autor": "AyalaGaunaVelmiro"
+  },
+  {
+    "tipo": "ensayo",
+    "genero": "policial",
+    "titulo": "Teoría postcolonial y Los Casos de don Frutos Gómez de Velmiro Ayala Gauna",
+    "year": "2017",
+    "autor": "AparicioMalvinaIsabel"
+  },
+  {
+    "tipo": "novela",
+    "genero": "policial",
+    "titulo": "La costilla de Adán (Rocco Schiavone 2)",
+    "rate": 5,
+    "year": "2014",
+    "autor": "ManziniAntonio"
+  },
+  {
+    "tipo": "novela",
+    "genero": "policial",
+    "titulo": "Una primavera de perros (Rocco Schiavone 3)",
+    "rate": 5,
+    "year": "2016",
+    "autor": "ManziniAntonio"
+  },
+  {
+    "tipo": "cuento",
+    "titulo": "Buenos Aires noir",
+    "autor": "Varios",
+    "rate": 4,
+    "partes": [
+      "Belgrano R. La esposa muerta -- Inés Garland",
+      "Once. Amor eterno -- Ernesto Mallo",
+      "Chacarita. El naranja es un color hermoso -- Verónica Abdala",
+      "Nuñez. Tres ambientes con patio -- Elsa Osorio",
+      "San Telmo. La muerte y la canoa -- Claudia Piñeiro",
+      "Caballito. Una cara en la multitud -- Pablo De Santis",
+      "Parque Chas. Crochet",
+      "Mataderos. La furia del gusano",
+      "Palermo. El camaleón y los leones"
+    ]
+  },
+  {
+    "tipo": "cuento",
+    "titulo": "Un mes con Montalbano",
+    "autor": "CamilleriAndrea",
+    "rate": 4,
+    "partes": ["Doble móvil", "El tirón", "Fin de año"]
+  },
+  {
+    "tipo": "ensayo: lingüística forense",
+    "genero": "policial",
+    "titulo": "Atrapados por la lengua",
+    "rate": 5,
+    "year": "2016",
+    "autor": "QueraltSheila"
+  }
+]
